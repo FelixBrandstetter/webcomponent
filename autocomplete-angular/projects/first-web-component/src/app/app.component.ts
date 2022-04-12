@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import './test/autocomplete-component.ts'
+import './autocomplete-component.ts'
 
 @Component({
   selector: 'app-root',

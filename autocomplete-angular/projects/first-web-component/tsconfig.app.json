@@ -11,6 +11,6 @@
   ],
   "include": [
     "src/**/*.d.ts",
-    "src/app/test/autocomplete-component.ts"
+    "src/app/autocomplete-component.ts"
   ]
 }
